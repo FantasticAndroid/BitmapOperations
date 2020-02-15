@@ -22,5 +22,5 @@ Bitmap Operations is utility app to have some useful Bitmap transormation featur
 
 ### Screens
 
-![Image](https://github.com/FantasticAndroid/KSS/blob/master/BitmapOperations/screens/1.jpg) ![Image](https://github.com/FantasticAndroid/KSS/blob/master/BitmapOperations/screens/2.jpg)
+![Image](https://github.com/FantasticAndroid/BitmapOperations/blob/master/screens/1.jpg) ![Image](https://github.com/FantasticAndroid/BitmapOperations/blob/master/screens/2.jpg)
 
